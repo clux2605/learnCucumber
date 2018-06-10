@@ -1,0 +1,153 @@
+SQL Server Developer/BI Developer
+SQL Server Developer/BI Developer - State of CT - Court Support Services Division
+
+Edison, NJ
+• 8+ years of IT experience in System Analysis and Design, Implementation, Performance Tuning, and Support of MS SQL Server in Production, QA and Development Environments. 
+• Experience in creating Tables, Procedures, Functions, Views and other database objects using SQL and PL/SQL. 
+• Experience in writing Complex T-SQL Queries, Sub queries, Co-related sub queries, Dynamic SQL queries. 
+● Experience in tuning the performance of Stored Procedures and long running queries. 
+● Experience in Requirement Analysis, Scoping, Developing, Debugging, Testing and Documentation of various phases in a project life cycle of Client/Server Applications. 
+● Expertise in Production migration of New releases and Enhancements. 
+● Experience in coordinating the work with offshore team. 
+● Excellent interpersonal communication, problem solving, documentation and business analytical skills with an ability to adapt new technology quickly and a strong team player. 
+ 
+Integration Services (SSIS): 
+● Proficient in using SQL Server Integration Services (SSIS) to build Data Integration and Workflow Solutions, Extract, Transform and Load (ETL) solutions for Data warehousing applications. 
+● Experience in design of ETL packages for integrating data from heterogeneous sources like (Excel, Oracle, Flat file, CSV) by using multiple transformations provided by SSIS. 
+● Proficient in usage of SSIS Control Flow items (For Each Loop, For Loop & Sequence container, execute package, execute SQL tasks, Script task, send mail task) and transformations (Conditional Split, Data Conversion lookup, Derived Column, Aggregate, Multicast). 
+● Hands on experience on ensuring proper implementation of Event Handlers, Loggings, Checkpoints, Transactions and package configurations. 
+● Experience in creating jobs, SQL Mail, Alerts and schedule SSIS Packages using SQL Server Agent. 
+● Deployed SSIS packages to different environments. 
+ 
+Reporting Services (SSRS): 
+● Extensive experience in gathering and documenting user requirements, report development, setup security infrastructure at Data and object levels as part of setting up reporting infrastructure. 
+● Supported team in resolving SQL Reporting services and T-SQL related issues and Proficiency in creating different types of reports. 
+• Experience in using SQL server reporting Services (SSRS) and creating various reports such as Parameterized, Cascading, Tabular, Matrix, Chart and Drill down reports. 
+• Experience in configuration of report server and report manager scheduling, give permissions to different level of users in SQL Server Reporting Services (SSRS). 
+ 
+Analysis Services (SSAS): 
+ 
+• Experience in creating OLAP cubes, identifying dimensions, attributes, hierarchies and calculating measures and dimensions using SQL Server Analysis Services. 
+• Experience in Designing, Creating, Deploying and Processing of Cubes using SSAS. 
+• Experience in creating and managing SSAS Tabular models, creating Dimension Tables and Fact Tables.
+Work Experience
+SQL Server Developer/BI Developer
+State of CT - Court Support Services Division - Wethersfield, CT
+October 2013 to Present
+Responsibilities: 
+● Involved in requirement gathering and design documents for developing the project. 
+● Designed Domain model for the application. 
+● Created new database objects like tables, procedures, functions, indexes and views using T-Sql in development and production environments. 
+● Worked on creating mapping documents for data conversion from legacy to new model. 
+● Created data dictionary to map data points from source to destination that were used for conversion. 
+● Parked data objects that were left from legacy system to new system for archiving purposes. 
+● Coordinated with front-end developers for implementing logic in stored procedures and functions for faster retrieval of data. 
+● Used Red Gate to move schema related changes from source control to higher environments. 
+● Individual contributor involved in ETL (Extraction, Transformation and Loading) of data from legacy system to new model. 
+● Created SSIS packages to load robust data from heterogeneous data sources like Oracle, DB2, Flat files to SQL server. 
+● Used various SSIS transformations such as conditional split, data conversion task, derived column, Multicast, Merge join and look up that are used for data cleansing and validation before loading data into new tables. 
+● Configured and deployed SSIS packages from test to production environments. 
+● Scheduled jobs to run on daily and weekly basis using Sql Server Agent. 
+● Created different types of reports such as tabular, matrix, sub reports. 
+● Designed and implemented parametrized and cascading parametrized reports using SSRS 
+● Deployed reports to report server, added subscription and snapshot for end users. 
+● Scheduled reports using SSRS to generate daily, weekly, monthly and quarterly reports. 
+● Created Fact and dimensional tables, established relationship between them. 
+● Experience in creating data sources, data views, dimensions, cubes using SSAS. 
+● Used Team Foundation Server (TFS) for version control. 
+ 
+Environment: SQL Server 2012, SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), SQL Server Data Tools, SQL Profiler, Windows 7, Microsoft Office SharePoint, Team Foundation Server.
+SQL Server Developer/BI developer
+Claims Recovery Financial Services, LLC - Albion, NY
+October 2012 to September 2013
+Albion, NY Oct 2012 - Sep 2013 
+Role: SQL Server Developer/BI developer 
+ 
+Responsibilities: 
+● Responsible for all reports creation, deployment and bug fixing. 
+● Fixed defects and failures using methods such as modifying code, fixing incorrect joins and replacing sub selects with joins. 
+● Performed tuning and optimization of queries for reports that take longer execution time using SQL Profiler, index tuning wizard and SQL Query Analyzer. 
+● Created User Defined functions and used it for creation of stored procedures. 
+● Involved in creating views to facilitate easy user interface implementation. 
+● Created triggers to facilitate consistent entry of data into tables. 
+● Created different types of reports such as tabular, matrix, drill down and sub reports. 
+● Wrote parameterized queries for generating tabular reports using expressions, functions, defining data sources. 
+● Generated reports using SSRS that were used to send information to different vendors, Clients and mangers. 
+● Added subscription and Snapshot options to deliver the reports to end users. 
+● Created ETL packages using Heterogeneous data sources (DB2, ORACLE and Flat Files etc.) and then loaded the data into destination tables by performing different kinds of transformations using SSIS. 
+● Used various SSIS transformations such as conditional split, derived column and look up which were used for data scrubbing and data validation before loading the data into destination. 
+● Involved in scheduling and administering SSIS packages. 
+● Used SSIS and T-SQL stored procedures to transfer data from OLTP databases to staging area and finally transfer into data warehouse. 
+● Created OLAP cubes on top of data warehouse based on facts and dimension tables for analysis purposes using SSAS. 
+ 
+Environment: SQL Server 2008 R2, SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), Windows Server 2008, VB.NET, Business Intelligence Development Studio (BIDS), Visual Source Safe.
+SQL Server Developer/SSIS/SSRS
+Bank of America - Jersey City, NJ
+August 2011 to September 2012
+Responsibilities: 
+● Created database objects like tables, views, functions trigger and stored procedures. 
+● Managed database objects like tables, views, indexes etc. 
+● Fixed defects and failures using methods such as modifying code and fixing incorrect joins and altering sequences. 
+● Used SQL Profiler to trace slow running queries and fixed them accordingly. 
+● Created various forms of reports such as tabular, matrix, charts, drill down and parametrized reports and deployed them to report server. 
+● Added subscription and snapshot option to deployed reports for end users. 
+● Hands on experience in creating ETL packages using SSIS. 
+● Involved in creating SSIS packages, building, deploying and executing the packages in both the environments (Development and Production). 
+● Used SSIS package to load data from different platforms such as CSV, XML, Flat file and excel. 
+● Used For loop, sequence container, execute sql task, send mail task to achieve business requirements. 
+● Created deployment utility to deploy SSIS packages over Production, Prod support and QA environments. 
+● Used Event Handlers for Custom Logging using Store Procedures for various events (On Warning, On Pre-and Post-Execution, On Task Failed etc.) 
+● Schedule and maintain SSIS packages daily, weekly and monthly using SQL server Agent 
+● Generated Reports using Global Variables, Expressions and Functions for the reports. 
+● Refactoring of Store Procedures based on changing requirements. 
+ 
+Environment: SQL Server 2008, SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS), Windows Server 2008 R2, Business Intelligence Development Studio (BIDS), SharePoint, SQL Server Agent.
+SQL Server Developer/SSIS/SSRS
+Wells Fargo - San Francisco, CA
+January 2010 to July 2011
+Responsibilities: 
+● Involved in dimensional modeling to design data warehouse. 
+● Worked in OLAP environment where star schema is implemented, creating and identifying fact and dimension tables and establishing proper relations between them. 
+● Generated stored procedures and functions for better performance and flexibility. 
+● Involved in planning, designing and defining dataflow process for moving data from OLTP database to data warehouse. 
+● Collaborated with team members in writing test SQL scripts, performing tests and providing appropriate follow-up actions and documentation. 
+● Used SSIS to create ETL Packages to perform extract, transform and load data from different source to destination tables. 
+● Implemented Data Cleansing, Incremental Data Loading, Event Handling and Error Handling. 
+● Used different types of transformations such as data conversion, conditional split, look up, derived column, aggregate, Multicast etc., 
+● Created SSIS packages to perform filtering options and to import the data on daily basis from file server into database tables. 
+● Prepared Technical Documents for SSIS packages. 
+● Created various forms of reports such as sub report, charts and matrix. 
+● Developed custom reports using SQL Server Reporting Services to review business trends based on different locations. 
+● Deployed reports to report server, added subscription and snapshot options to reports. 
+● Scheduled Reports on daily and weekly basis in Report manager and email them to managers and analysts in CSV format. 
+● Designed reports on account information, research reports using ad-hoc reporting to be used by clients and advisors. 
+● Developed various scripts for data analysts for verification purposes 
+● Responsible for deploying reports to report manager and troubleshooting of any errors at execution. 
+ 
+Environment: SQL Server 2008, SQL Profiler, Reporting Services (SSRS), Integration Services (SSIS), Team Foundation Server, Windows 7, Microsoft Visual Studio.
+SQL Server Developer/SSRS
+CoMakeIT - IN
+November 2008 to December 2009
+Responsibilities: 
+● Managed database objects like stored procedures, views, tables etc. 
+● Optimized queries that were taking long time to display desired result set. 
+● Created groups, roles, users and assigning access privileges to users. 
+● Created new stored procedures and modifying existing ones as per business requirements. 
+• Created various types of reports such as sub reports, parameterized, Tablix and Matrix using SQL Server Reporting Services. 
+• Performed data analysis to generate various trend reports. 
+• Performed identification, analysis and resolved report defects within time scope and established development guidelines. 
+ 
+Environment: SQL Server 2005, SQL Server Management Studio, SQL Server Reporting Services (SSRS), Windows XP
+Skills
+MICROSOFT SQL SERVER REPORTING SERVICES (8 years), MICROSOFT SSRS (8 years), MS SQL SERVER (8 years), SQL (8 years), SQL SERVER (8 years)
+Additional Information
+TECHNICAL SKILLS: 
+ 
+Databases SQL Server […] […] Oracle 9i 
+Programming Languages T-SQL, PL/SQL, C, C++, OOPS Concepts 
+Reporting Tools SQL Server Reporting Services (SSRS), Power BI 
+ETL Tools SQL Server Integration Services (SSIS) 
+Analysis Services SQL Server Analysis Services (SSAS) 
+Version Control Team Foundation Server (TFS), Visual SourceSafe (VSS). 
+Data modeling Tools Erwin […] MS Visio […] 
+Deployment Tools Red Gate (Schema Compare, Data compare)
