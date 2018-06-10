@@ -1,0 +1,73 @@
+function fac(n){
+ if(n==0)
+  return 1;
+ else
+  return fac(n - 1) * n;
+}
+
+console.log(fac(8));
+
+
+var num = 1-4 + 2
+console.log(num);
+
+console.log(3 > 2);
+console.log(3<2);
+
+
+var num = 0;
+while (num <= 12) {
+    console.log(num);
+    num = num + 2;
+}
+
+var str = "#"
+for (var i = 0; i < 7; i++) {
+    console.log(str);
+    str += "#";   
+}
+
+for (var i = 1; i <= 30; i++) {
+    
+    if (i%5==0 && i%3==0) {
+        console.log("FizzBuzz");
+    }else if (i%3==0){
+        console.log("Fizz");
+    }else if (i%5==0){
+        console.log("Buzz");
+    }else{
+        console.log(i);
+    }
+}
+
+for (var i = 0; i < 4; i++) {
+   
+    for (var j = 0; j < 4; j++) {
+        console.log("#");
+        
+    }
+     console.log(" ");
+}
+
+var sqr = function (x) {
+    return x*x;
+}
+
+console.log(sqr(12));
+
+
+var size = 8;
+
+var board = "";
+
+for (var y = 0; y < size; y++) {
+  for (var x = 0; x < size; x++) {
+    if ((x + y) % 2 == 0)
+      board += " ";
+    else
+      board += "#";
+  }
+  board += "\n";
+}
+
+console.log(board);
