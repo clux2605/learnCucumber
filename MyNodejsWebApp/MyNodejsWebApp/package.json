@@ -1,0 +1,9 @@
+{
+  "name": "my-nodejs-web-app",
+  "version": "0.0.0",
+  "description": "MyNodejsWebApp",
+  "main": "server.js",
+  "author": {
+    "name": "Exo2600"
+  }
+}
